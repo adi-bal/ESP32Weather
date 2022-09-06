@@ -1,7 +1,9 @@
-# ESP32 Weather reporter 
-The ESP32 weather reporter is an internet of things a based project that uitlises the ESP32 microntroller aa web server to display html based web content relating to temperature, humidity and indoor climate conditions. The project was built utilizing arduino based c++ sketches. 
+# Weather on chip 
+This repository hosts the code for an internet of things based built by out team for Escendo 2021. 
 
+Weather on chip utilises an ESP32 microcontroller with wifi and bluetooth capabilities to collect information from the connected sensors, and display the relevant metrics to vanilla javascript page hosted on a web server over a local network. 
 
+# Sample Operation on the front end 
 <img src = "images/sample.jpeg" height = "400px">
 
 
